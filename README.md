@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-jingweili.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jingweili.me)](https://jingweili.me)
 [![GitHub Badge](https://img.shields.io/github/followers/ljw980105?label=follow&style=social)](https://github.com/ljw980105)
 
-![header](https://jingweili.me/resources/github-readme-2.svg)
+![header](https://jingweili.me/resources/github-readme-3.svg)
 
 <center>
 
